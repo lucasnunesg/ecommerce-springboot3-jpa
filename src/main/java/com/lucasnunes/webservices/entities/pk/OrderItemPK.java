@@ -51,4 +51,5 @@ public class OrderItemPK implements Serializable {
     public int hashCode() {
         return Objects.hash(order, product);
     }
+
 }
