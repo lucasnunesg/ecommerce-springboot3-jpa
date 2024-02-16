@@ -7,8 +7,11 @@
   Project built using the MVC pattern containing a Service layer to further separate business logic from the resources. The resources (controllers) make a call to the respective service which is responsible to call the respective repository to perform the CRUD operations on the database.
 </p>
 
-![/assets/images/database.png]("#")
-![/assets/images/layers.png]("#")
+<p align="center">
+<img src="https://github.com/lucasnunesg/ecommerce-springboot3-jpa/blob/main/assets/images/database.png"/>
+<img src="https://github.com/lucasnunesg/ecommerce-springboot3-jpa/blob/main/assets/images/layers.png"/>
+</p>
+
 
 ## Entities Description
 
